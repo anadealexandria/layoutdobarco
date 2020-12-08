@@ -1,0 +1,248 @@
+#topo{
+    background:#16082f;
+    font-family: Arial;   
+    padding: 10px;
+    
+    
+
+}
+
+#tituloTopo{
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#ffff;
+    position: relative;
+    top:3%;
+    left:-1%;
+    font-size:18px;
+    background-color: #16082f;
+    width: 25%;
+
+}
+
+#tituloTopo h4{
+    position:relative;
+    top:-70px;
+    left:25%;
+    margin-top: -4%;
+
+    
+}
+
+#tituloTopo h3{ 
+    color:#1E90FF;
+    position:relative;
+    top:-60px;
+    left:25%;
+}
+
+#tituloTopo img{
+    position:relative;
+    top: 15px;
+    left:5%
+}
+
+#barquinho{
+    background-size: 10px ;
+    background-image:#16082f;
+    position:absolute;
+    top:35px;
+    left:30px   
+}
+
+#azul{
+    color:#1E90FF;
+}
+
+#menu {
+      float: right;
+      font-size:12px;
+      background:#16082f;
+      position: relative;
+      top:-100px
+}
+
+#menu li{ display: inline-block;
+          padding: 2px 10px;
+          font-style: normal;
+          color:#ffff;          
+        }
+
+#barcoPrincipal{
+                margin:0px;                              
+                width:980px;
+                height: 495px;
+                position:absolute;
+                top:110px;
+                background-image: url("barcoprincipal.jpg");
+                background-size: cover;
+}
+
+#quadrinhoAzul h1{
+    position: relative;
+    top:20px;
+    left:20px;
+    padding-right: 100px;
+    float: left;
+    font-style: italic;
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ffff;    
+    margin-top: 0;   
+
+}
+
+#quadrinhoAzul h2{
+    position: relative;
+    top:60px;
+    left:40px;
+    padding-right: 100px;
+    float: left;
+    font-style: italic;
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ffff;   
+    margin-top: -2%;
+    font-size: 12px;
+    
+
+}
+
+
+#quadrinhoAzul h3{
+    position: relative;
+    top:30px;
+    left:-50px;
+    padding-right: 100px;
+    float:left;
+    font-style: italic;
+    font-size:18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#daa520
+}
+
+#quadrinhoAzul{
+    position:relative;
+    top:45%;
+    width: 40%;
+    height: 40% ;
+    background: #16082f;
+    left: 53%;
+    opacity: 90%;
+    float:left;
+}
+#quadrinhoAzul img{
+    float: left;
+    position: relative;
+    top:80px;
+    left:-315px
+    
+}
+
+.destinos{
+    float:left;
+    position:relative;
+    top:350px;   
+    margin:5%;
+    width: 455px;
+    height: 100px;
+    background: #ffff;  
+    right:3%
+    
+}        
+#nossaFrota{
+    float: right;
+    position:relative;
+    top:400px;
+    width: 900px;    
+    background: #ffff;
+    height: 100px;
+    left: -3%    
+ 
+}
+
+#barquinhoDestino{
+    position:relative;
+    top:0px
+
+}
+#nomeDestinos{
+    position: relative;
+    top:-50px;
+    float: left;
+    left: 50px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ffff
+    
+}
+    
+#tituloDestinos{
+    background: #6495ed
+}     
+
+#tituloFrota{
+    background:#daa520;
+}
+   
+#imagemDestino{
+    position:relative;
+    top:4px;    
+}
+.blocos{
+    display: inline-flex;
+    width: 980px;
+    height: 880px;
+    background-color: #ffff;
+
+    
+}
+
+#subtituloDestinos{
+    left: 2px;
+    position:absolute;
+    top:55px;
+    
+}
+
+#texto1{
+    position:relative;
+    top:10pxpx;
+    right: 2px;
+    display:table;
+    width: 455px;
+    
+}
+#tituloFrota2{
+    position: relative;
+    top:-45px;
+    left: 50px;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ffff
+}
+#tituloFrota{
+    height: 45px;
+}
+
+#veleiroFrota{
+    position:relative;
+    top:5px;
+    left:5px
+}
+    
+
+body{
+    margin:auto;
+    padding: 0px;
+    width:980px;   
+}
+html{
+    background-color: #c0c0c0;
+    height: 120%;
+}
+h6{
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
